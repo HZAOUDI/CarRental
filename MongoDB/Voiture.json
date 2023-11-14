@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed5"
+  },
+  "Matricule": "ABC123",
+  "Marque": "Toyota",
+  "Modèle": "Corolla",
+  "Kilométrage": 5666,
+  "Année": 2018,
+  "Type de carburant": "Essence",
+  "Couleur": "blanc",
+  "Prix": 15030,
+  "Disponibilité": true,
+  "Image": "images/cars/car2.jpg",
+  "estReservee": false
+},{
+  "_id": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed6"
+  },
+  "Matricule": "DEF456",
+  "Marque": "Honda",
+  "Modèle": "Civic",
+  "Kilométrage": 75000,
+  "Année": 2016,
+  "Type de carburant": "Essence",
+  "Couleur": "Blanc",
+  "Prix": 12000,
+  "Disponibilité": false,
+  "Image": "images/cars/car3.jpg",
+  "estReservee": false
+},{
+  "_id": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed7"
+  },
+  "Matricule": "GHI789",
+  "Marque": "Ford",
+  "Modèle": "Mustang",
+  "Kilométrage": 30000,
+  "Année": 2020,
+  "Type de carburant": "Essence",
+  "Couleur": "Rouge",
+  "Prix": 25000,
+  "Disponibilité": true,
+  "Image": "images/cars/car1.jpg",
+  "estReservee": false
+}]

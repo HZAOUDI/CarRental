@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6471d437a7001afb30f6cfed"
+  },
+  "N_client": 1,
+  "Nom": "Dupont",
+  "Prenom": "Jean",
+  "CIN": "AB123456",
+  "Adress": "123 Rue Principale, Ville",
+  "Login": "jean.dupont@example.com"
+},{
+  "_id": {
+    "$oid": "6471d437a7001afb30f6cfef"
+  },
+  "N_client": 3,
+  "Nom": "Lefebvre",
+  "Prenom": "Pierre",
+  "CIN": "EF345678",
+  "Adress": "789 Boulevard Central, Ville",
+  "Login": "pierre.lefebvre@example.com"
+}]

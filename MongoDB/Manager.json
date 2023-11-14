@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "64721f17a3796370815c4b11"
+  },
+  "N_manager": 1,
+  "Nom": "Hajar",
+  "Prenom": "LAFKIH",
+  "CIN": "AM6721",
+  "Login": "hajar.lafkih@etu.uae.ac.ma",
+  "Password": "haja2",
+  "adress": "11, rue Oman , Ait Mansour"
+},{
+  "_id": {
+    "$oid": "6472224fa3796370815c4b24"
+  },
+  "N_manager": 100,
+  "Nom": "aziz",
+  "Prenom": "ahmadi",
+  "CIN": "L12345",
+  "Login": "aziz@gmail.com",
+  "Password": "12345",
+  "adress": "casa"
+}]

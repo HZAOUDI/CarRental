@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64668f7c3e1dbcb4db7a4ed8"
+  },
+  "DateDebut": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "DateFin": {
+    "$date": "2023-05-05T00:00:00.000Z"
+  },
+  "modePaiement": "Carte de crédit",
+  "status": "Confirmée",
+  "Prix_loc": 250,
+  "Caution": 500,
+  "Matricule": "ABC123",
+  "voitureId": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed5"
+  }
+},{
+  "_id": {
+    "$oid": "64668f7c3e1dbcb4db7a4ed9"
+  },
+  "DateDebut": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  },
+  "DateFin": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "modePaiement": "Virement bancaire",
+  "status": "Refusée",
+  "Prix_loc": 180,
+  "Caution": 300,
+  "Matricule": "DEF456",
+  "voitureId": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed6"
+  }
+},{
+  "_id": {
+    "$oid": "64668f7c3e1dbcb4db7a4eda"
+  },
+  "DateDebut": {
+    "$date": "2023-07-20T00:00:00.000Z"
+  },
+  "DateFin": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  },
+  "modePaiement": "Espèces",
+  "status": "Confirmée",
+  "Prix_loc": 300,
+  "Caution": 600,
+  "Matricule": "GHI789",
+  "voitureId": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed7"
+  }
+},{
+  "_id": {
+    "$oid": "647224b068a19004aee92dcd"
+  },
+  "DateDebut": {
+    "$date": "2023-05-26T23:00:00.000Z"
+  },
+  "DateFin": {
+    "$date": "2023-05-29T23:00:00.000Z"
+  },
+  "modePaiement": "Cheque",
+  "Prix_loc": 25000,
+  "Caution": 233,
+  "status": "Confirmée",
+  "Matricule": "GHI789",
+  "voitureId": {
+    "$oid": "64668f6d3e1dbcb4db7a4ed7"
+  }
+}]
